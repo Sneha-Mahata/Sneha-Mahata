@@ -56,3 +56,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-mahata&" alt="sneha-mahata" /></p>
 
+<p align="center">
+  <img src="footer.svg" alt="Footer SVG">
+</p>
