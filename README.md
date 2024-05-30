@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sneha Mahata</h1>
+<h1 align="center">Hi 👋, I'm Sneha!</h1>
 <h3 align="center">A passionate AI-ML Engineer from India</h3>
 
 <table align="center">
