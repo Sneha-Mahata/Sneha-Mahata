@@ -26,12 +26,26 @@
 # IDE:
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,linux)](https://skillicons.dev)
 <br/>
+<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sneha-mahata&show_icons=true&locale=en&layout=compact" alt="sneha-mahata" /></p>
+# GitHub Activity :
+<table align="center">
+<tr><td align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneha-mahata&show_icons=true&locale=en" alt="sneha-mahata" /></p>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sneha-Mahata\&rank_icon=github\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=bear)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-mahata&" alt="sneha-mahata" /></p>
+</td><td>
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-Mahata\&layout=compact\&theme=bear)
+
+</td></tr>
+<tr><td colspan="2" align="center">
+    
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sneha-Mahata&theme=bear)
+
+</td></tr></table>
+<br>
+<hr>
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%20%20Happy%20Coding,%20Stay%20Awesome!%20%20&fontColor=FFFFFF&fontSize=40&animation=twinkling&fontAlign=50&fontAlignY=70&color=gradient&&customColorList=6,24,2,28,30&section=footer">
