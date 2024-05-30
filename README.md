@@ -16,7 +16,6 @@
 # Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/sneha-mahata-bba249255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-mahata-bba249255" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sneha-mahata-bba249255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-mahata-bba249255" height="30" width="40" /></a>
 <a href="https://kaggle.com/snehamahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="snehamahata" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sneha-mahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sneha-mahata" height="30" width="40" /></a>
 </p>
@@ -24,6 +23,8 @@
 # Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,tailwind,nodejs,flask,django,postgres,sklearn,tensorflow,pytorch,opencv,aws)](https://skillicons.dev)
 
+# IDE:
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,linux)](https://skillicons.dev)
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sneha-mahata&show_icons=true&locale=en&layout=compact" alt="sneha-mahata" /></p>
