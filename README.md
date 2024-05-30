@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Mahata</h1>
-<h3 align="center">A passionate ML Engineer from India</h3>
+<h3 align="center">A passionate AI-ML Engineer from India</h3>
+
+<img align="right" alt="GIF" src="https://github.com/Sneha-Mahata/Sneha-Mahata/blob/main/code.gif?raw=true" width="500" height="320" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-mahata&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-mahata" /> </p>
 
