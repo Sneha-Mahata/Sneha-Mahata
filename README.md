@@ -33,6 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-mahata&" alt="sneha-mahata" /></p>
 
-<p align="center">
-  <img src="footer.svg" alt="Footer SVG">
-</p>
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%20%20Happy%20Coding,%20Stay%20Awesome!%20%20&fontColor=FFFFFF&fontSize=40&animation=twinkling&fontAlign=50&fontAlignY=70&color=gradient&&customColorList=6,24,2,28,30&section=footer">
+</div>
