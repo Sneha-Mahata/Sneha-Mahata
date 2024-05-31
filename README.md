@@ -3,12 +3,25 @@
 
 <table align="center">
 <tr>
-<td align="center">  
-<h2 align="left">About Me</h2>
-- 🌱 I’m currently exploring <b>Computer Vision, LLM, RAG</b>
+<td align="left">  
+<h2 align="center">About Me</h2>
+<ul>
+    <li>👩‍🎓 persuing B.Tech in CSE (AI & ML) from Heritage Institute of Technology</li>
+    <li>🧠 Currently diving deep into:
+        <ul>
+            <li>Computer Vision</li>
+            <li>Natural Language Processing (NLP)</li>
+            <li>Large Language Models (LLM)</li>
+            <li>Retrieval-Augmented Generation (RAG)</li>
+        </ul>
+    </li>
+    <li>🍳 When I'm not coding, you can find me experimenting in the kitchen. Cooking is one of my passions!</li>
+    <li>📺 Avid anime fan – always up for a chat about the latest series or all-time classics</li>
+    <li>🚀 Excited about leveraging AI to solve real-world problems and create innovative solutions</li>
+</ul>
 </td>
 <td>
-<img align="right" alt="GIF" src="https://github.com/Sneha-Mahata/Sneha-Mahata/blob/main/code.gif?raw=true" width="400" height="300" />
+<img align="right" alt="GIF" src="https://github.com/Sneha-Mahata/Sneha-Mahata/blob/main/code.gif?raw=true" width="400" height="350" />
 </td>
 </tr>
 </table>
@@ -36,7 +49,7 @@
 <br/>
 <hr>
 
-<h1 align="center">Github Stats</h1>
+<h2 align="center">Github Stats</h2>
 <table align="center">
 <tr><td align="center">
 
@@ -55,7 +68,7 @@
 <br>
 <hr>
 
-# My Projects :
+<h2 align="center">My Projects</h2> 
 <table align="center" cellspacing="3"><tr><td>
     
 <a href="https://github.com/Sneha-Mahata/Multiclass-Image-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=Multiclass-Image-Classification&cache_seconds=86400&theme=bear"></a>
