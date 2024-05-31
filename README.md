@@ -50,19 +50,19 @@
 # My Projects :
 <table align="center" cellspacing="3"><tr><td>
     
-<a href="https://github.com/Sneha-Mahata/Dog-Vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=Dog-Vision&cache_seconds=86400&theme=bear"></a>
+<a href="https://github.com/Sneha-Mahata/Multiclass-Image-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=Multiclass-Image-Classification&cache_seconds=86400&theme=bear"></a>
 
 </td><td>
 
-<a href="https://github.com/Sneha-Mahata/End-to-end-Bulldozer-Price-Regression"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=End-to-end-Bulldozer-Price-Regression&cache_seconds=86400&theme=bear"></a>
+<a href="https://github.com/Sneha-Mahata/Dog-Vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=Dog-Vision&cache_seconds=86400&theme=bear"></a>
 
 </td></tr><tr><td>
 
-<a href="https://github.com/Sneha-Mahata/End-to-end-Heart-Disease-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=End-to-end-Heart-Disease-Classification&cache_seconds=86400&theme=bear"></a>
+<a href="https://github.com/Sneha-Mahata/End-to-end-Bulldozer-Price-Regression"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=End-to-end-Bulldozer-Price-Regression&cache_seconds=86400&theme=bear"></a>
 
 </td><td>
 
-<a href="https://github.com/Sneha-Mahata/Spotify-Website-Clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=Spotify-Website-Clone&cache_seconds=86400&theme=bear"></a>
+<a href="https://github.com/Sneha-Mahata/End-to-end-Heart-Disease-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=End-to-end-Heart-Disease-Classification&cache_seconds=86400&theme=bear"></a>
 
 </td></tr>
 <tr>
