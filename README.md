@@ -20,11 +20,13 @@
 <a href="https://www.leetcode.com/sneha-mahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sneha-mahata" height="30" width="40" /></a>
 </p>
 
-# Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,tailwind,nodejs,flask,django,postgres,sklearn,tensorflow,pytorch,opencv,aws)](https://skillicons.dev)
-
-# IDE
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,linux)](https://skillicons.dev)
+<h2 align="center">Languages-Frameworks-Tools</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react"/>
+    <img src="https://skillicons.dev/icons?i=tailwind,nodejs,flask,django,postgres,sklearn,tensorflow,pytorch,opencv,aws"/>
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux"/>
+</div>
 <br/>
 <hr>
 
