@@ -22,7 +22,7 @@
         <img src="https://skillicons.dev/icons?i=linkedin" />
     <a href="https://www.instagram.com/_.sne_______ha._/" target="blank">
         <img src="https://skillicons.dev/icons?i=instagram" />
-    <a href="https://discord.com/user/sneha5834" target="blank">
+    <a href="https://discordapp.com/users/5834" target="blank">
         <img src="https://skillicons.dev/icons?i=discord" />
 </div>
 
