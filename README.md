@@ -17,11 +17,11 @@
 
 <div align="center">
     <a href="mailto:mahatasneha4@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" />
+        <img src="https://skillicons.dev/icons?i=gmail" />&nbsp
     <a href="https://linkedin.com/in/sneha-mahata-bba249255" target="blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
+        <img src="https://skillicons.dev/icons?i=linkedin" />&nbsp
     <a href="https://www.instagram.com/_.sne_______ha._/" target="blank">
-        <img src="https://skillicons.dev/icons?i=instagram" />
+        <img src="https://skillicons.dev/icons?i=instagram" />&nbsp
     <a href="https://discordapp.com/users/5834" target="blank">
         <img src="https://skillicons.dev/icons?i=discord" />
 </div>
