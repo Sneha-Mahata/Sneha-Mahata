@@ -6,7 +6,7 @@
 <td align="left">  
 <h2 align="center">About Me</h2>
 <ul>
-    <li>👩‍🎓 persuing B.Tech in CSE (AI & ML) from Heritage Institute of Technology</li>
+    <li>👩‍🎓 Persuing B.Tech in CSE (AI & ML) from Heritage Institute of Technology</li>
     <li>🧠 Currently diving deep into:
         <ul>
             <li>Computer Vision</li>
