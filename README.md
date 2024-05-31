@@ -13,12 +13,18 @@
 </tr>
 </table>
 
-<h1 align="center">Connect with me</h1>
-<p align="center">
-<a href="https://linkedin.com/in/sneha-mahata-bba249255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-mahata-bba249255" height="30" width="40" /></a>
-<a href="https://kaggle.com/snehamahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="snehamahata" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sneha-mahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sneha-mahata" height="30" width="40" /></a>
-</p>
+<h2 align="center">Connect with me</h2>
+
+<div align="center">
+    <a href="mailto:mahatasneha4@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" />
+    <a href="https://linkedin.com/in/sneha-mahata-bba249255" target="blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    <a href="https://www.instagram.com/_.sne_______ha._/" target="blank">
+        <img src="https://skillicons.dev/icons?i=instagram" />
+    <a href="https://discord.com/user/sneha5834" target="blank">
+        <img src="https://skillicons.dev/icons?i=discord" />
+</div>
 
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
