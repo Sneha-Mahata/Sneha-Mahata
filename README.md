@@ -47,7 +47,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux"/>
 </div>
 <br/>
-<hr>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0151.gif" border="0" alt="animated-line-image-0151" /></a>
 
 <h2 align="center">Github Stats</h2>
 <table align="center">
@@ -66,7 +66,7 @@
 
 </td></tr></table>
 <br>
-<hr>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" border="0" alt="animated-line-image-0184" /></a>
 
 <h2 align="center">My Projects</h2> 
 <table align="center" cellspacing="3"><tr><td>
