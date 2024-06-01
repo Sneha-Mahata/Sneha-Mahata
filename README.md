@@ -86,7 +86,7 @@
 
 </td></tr>
 <tr>
-    <td align="center" colspan="2"><i>Show some ❤️ by starring some of the repositories⭐!</i></td>
+    <td align="center" colspan="2"><b>Show some ❤️ by starring some of the repositories⭐!</b></td>
 </tr></table>
 
 <div align="center">
