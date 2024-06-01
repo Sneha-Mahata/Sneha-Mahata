@@ -53,16 +53,16 @@
 <table align="center">
 <tr><td align="center">
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sneha-Mahata\&rank_icon=github\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=bear)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sneha-Mahata\&rank_icon=github\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=tokyonight)
 
 </td><td>
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-Mahata\&layout=compact\&theme=bear)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-Mahata\&layout=compact\&theme=tokyonight)
 
 </td></tr>
 <tr><td colspan="2" align="center">
     
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sneha-Mahata&theme=bear)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sneha-Mahata&theme=tokyonight)
 
 </td></tr></table>
 <br>
@@ -71,19 +71,19 @@
 <h2 align="center">My Projects</h2> 
 <table align="center" cellspacing="3"><tr><td>
     
-<a href="https://github.com/Sneha-Mahata/Multiclass-Image-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=Multiclass-Image-Classification&cache_seconds=86400&theme=bear"></a>
+<a href="https://github.com/Sneha-Mahata/Multiclass-Image-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=Multiclass-Image-Classification&cache_seconds=86400&theme=tokyonight"></a>
 
 </td><td>
 
-<a href="https://github.com/Sneha-Mahata/Dog-Vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=Dog-Vision&cache_seconds=86400&theme=bear"></a>
+<a href="https://github.com/Sneha-Mahata/Dog-Vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=Dog-Vision&cache_seconds=86400&theme=tokyonight"></a>
 
 </td></tr><tr><td>
 
-<a href="https://github.com/Sneha-Mahata/End-to-end-Bulldozer-Price-Regression"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=End-to-end-Bulldozer-Price-Regression&cache_seconds=86400&theme=bear"></a>
+<a href="https://github.com/Sneha-Mahata/End-to-end-Bulldozer-Price-Regression"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=End-to-end-Bulldozer-Price-Regression&cache_seconds=86400&theme=tokyonight"></a>
 
 </td><td>
 
-<a href="https://github.com/Sneha-Mahata/End-to-end-Heart-Disease-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=End-to-end-Heart-Disease-Classification&cache_seconds=86400&theme=bear"></a>
+<a href="https://github.com/Sneha-Mahata/End-to-end-Heart-Disease-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=End-to-end-Heart-Disease-Classification&cache_seconds=86400&theme=tokyonight"></a>
 
 </td></tr>
 <tr>
