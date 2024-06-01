@@ -70,7 +70,7 @@
 <h2 align="center">My Projects</h2> 
 <table align="center" cellspacing="3"><tr><td>
     
-<a href="https://github.com/Sneha-Mahata/Multiclass-Image-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=Multiclass-Image-Classification&cache_seconds=86400&theme=tokyonight"></a>
+<a href="https://github.com/Sneha-Mahata/Multiclass-Image-Classifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=Multiclass-Image-Classifier&cache_seconds=86400&theme=tokyonight"></a>
 
 </td><td>
 
