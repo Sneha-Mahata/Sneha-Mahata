@@ -78,11 +78,11 @@
 
 </td></tr><tr><td>
 
-<a href="https://github.com/Sneha-Mahata/End-to-end-Bulldozer-Price-Regression"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=End-to-end-Bulldozer-Price-Regression&cache_seconds=86400&theme=tokyonight"></a>
+<a href="https://github.com/Sneha-Mahata/DOTA-Game-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=DOTA-Game-Prediction&cache_seconds=86400&theme=tokyonight"></a>
 
 </td><td>
 
-<a href="https://github.com/Sneha-Mahata/End-to-end-Heart-Disease-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=End-to-end-Heart-Disease-Classification&cache_seconds=86400&theme=tokyonight"></a>
+<a href="https://github.com/Sneha-Mahata/End-to-end-Bulldozer-Price-Regression"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=End-to-end-Bulldozer-Price-Regression&cache_seconds=86400&theme=tokyonight"></a>
 
 </td></tr>
 <tr>
