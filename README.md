@@ -8,19 +8,19 @@
     <li>👩‍🎓 Persuing B.Tech in CSE (AI & ML) from Heritage Institute of Technology</li>
     <li>🧠 Currently diving deep into:
         <ul>
-            <li>Computer Vision</li>
-            <li>Natural Language Processing (NLP)</li>
+            <li>Agentic AI</li>
             <li>Large Language Models (LLM)</li>
-            <li>Retrieval-Augmented Generation (RAG)</li>
+            <li>Computer Vision</li>
         </ul>
     </li>
-    <li>🍳 When I'm not coding, you can find me experimenting in the kitchen. Cooking is one of my passions!</li>
+    <li>🏋️‍♀️ Regular gym-goer - staying fit is important for both body and mind</li>
+    <li>🍳 Passionate about cooking and experimenting with new recipes</li>
     <li>📺 Avid anime fan – always up for a chat about the latest series or all-time classics</li>
     <li>🚀 Excited about leveraging AI to solve real-world problems and create innovative solutions</li>
 </ul>
 </td>
 <td>
-<img align="right" alt="GIF" src="https://github.com/Sneha-Mahata/Sneha-Mahata/blob/main/code.gif?raw=true" width="400" height="350" />
+<img align="right" alt="GIF" src="https://github.com/Sneha-Mahata/Sneha-Mahata/blob/main/code.gif?raw=true" width="400" height="400" />
 </td>
 </tr>
 </table>
