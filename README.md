@@ -1,9 +1,13 @@
 ![Header](./github-header-image2.png)
 
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Sneha-Mahata&style=flat-square&color=blueviolet" alt="Profile views" />
+</div>
+
 <table align="center">
 <tr>
 <td align="left">  
-<h2 align="center">About Me</h2>
+<h2 align="center">👩‍💻 About Me</h2>
 <ul>
     <li>👩‍🎓 Persuing B.Tech in CSE (AI & ML) from Heritage Institute of Technology</li>
     <li>🧠 Currently diving deep into:
@@ -25,49 +29,68 @@
 </tr>
 </table>
 
-<h2 align="center">Connect with me</h2>
+<br>
+
+<h2 align="center">🔗 Connect with me</h2>
 
 <div align="center">
-    <a href="mailto:mahatasneha4@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" />&nbsp
-    <a href="https://linkedin.com/in/sneha-mahata-bba249255" target="blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" />&nbsp
-    <a href="https://www.instagram.com/_.sne_______ha._/" target="blank">
-        <img src="https://skillicons.dev/icons?i=instagram" />&nbsp
-    <a href="https://discordapp.com/users/5834" target="blank">
-        <img src="https://skillicons.dev/icons?i=discord" />
+  <a href="mailto:mahatasneha4@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sneha-mahata-bba249255" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_.sne_______ha._/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/5834" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40" width="40" />
+  </a>
 </div>
 
-<h2 align="center">Languages-Frameworks-Tools</h2>
-<br/>
+<br>
+
+<h2 align="center">💻 Tech Stack</h2>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react"/>
-    <img src="https://skillicons.dev/icons?i=tailwind,nodejs,flask,django,postgres,sklearn,tensorflow,pytorch,opencv,aws"/>
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux"/>
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js" alt="Languages" />
+  
+  <h3>Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,flask,django" alt="Frameworks" />
+  
+  <h3>AI/ML & Data Science</h3>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI Tools" />
+  
+  <h3>Tools & Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,postgres,aws" alt="Tools" />
 </div>
-<br/>
-<hr />
 
-<h2 align="center">Github Stats</h2>
+<br>
+
+<h2 align="center">📊 Github Stats</h2>
+
 <table align="center">
 <tr><td align="center">
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sneha-Mahata\&rank_icon=github\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sneha-Mahata&rank_icon=github&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight)
 
 </td><td>
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-Mahata\&layout=compact\&theme=tokyonight)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-Mahata&layout=compact&theme=tokyonight)
 
 </td></tr>
 <tr><td colspan="2" align="center">
     
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sneha-Mahata&theme=tokyonight)
 
-</td></tr></table>
-<br>
-<hr/>
 
-<h2 align="center">My Projects</h2> 
+</td></tr></table>
+
+<br>
+
+<h2 align="center">🚀 Featured Projects</h2> 
+
 <table align="center" cellspacing="3"><tr><td>
     
 <a href="https://github.com/Sneha-Mahata/Multiclass-Image-Classifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=Multiclass-Image-Classifier&cache_seconds=86400&theme=tokyonight"></a>
@@ -85,9 +108,12 @@
 <a href="https://github.com/Sneha-Mahata/End-to-end-Bulldozer-Price-Regression"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Mahata&repo=End-to-end-Bulldozer-Price-Regression&cache_seconds=86400&theme=tokyonight"></a>
 
 </td></tr>
+
 <tr>
     <td align="center" colspan="2"><b>Show some ❤️ by starring some of the repositories⭐!</b></td>
 </tr></table>
+
+<br>
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%20%20Happy%20Coding,%20Stay%20Awesome!%20%20&fontColor=FFFFFF&fontSize=40&animation=twinkling&fontAlign=50&fontAlignY=70&color=gradient&&customColorList=6,24,2,28,30&section=footer">
